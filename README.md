@@ -91,8 +91,6 @@ El alien tiene **3 modos de movimiento** según la etapa del juego:
 
 ## 📊 Evaluación
 
-- Primer entrega: Jueves 5 de Junio
-- Fecha de entrega: **A confirmar**
 
 
 | Criterio                                         | Puntaje |
